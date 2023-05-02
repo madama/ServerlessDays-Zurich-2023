@@ -1,4 +1,11 @@
 {
+    "christoph-stanger": {
+        "name": "Christoph Stanger",
+        "photo": "christoph-stanger.jpg",
+        "title": "How to develop event-driven applications. Locally.",
+        "description": "This talk will present a modern approach to serverless, event-driven Google Cloud architectures that reveals how Google's commitment to open source and open standards improves developers' daily work and productivity. A demo will showcase how the open cloud approach allows for fast serverless development cycles through local development capabilities.<br/><br/>Take away #1: Developing and debugging event-driven architectures truly locally (EventArc, Cloud Run, Cloud Functions) even with external dependencies, is a valuable takeaway.<br/><br/>Take away #2: Fast and convenient debugging cycles are the key for effective and fun software development - how this is possible with cloud native (event driven/Serverless architectures) architectures is a takeaway of this talk.<br/><br/>Take away #3: You will also learn what benefits our open cloud approach (open sourcing and implementing open standards) has, on very concrete examples.",
+        "about": "I'm a Strategic Cloud Engineer at Google, focused on containerized application modernization and serverless application development. NodeJS and Typescript are my preferred tools to go fast.<br/>Before Google, I worked at AWS and MaibornWolff building apps and services on various web, mobile and cloud platforms. Originally from Austria, I enjoy being close to the ‘cloud’ during mountaineering as well."
+    }
 
 
 }
