@@ -33,5 +33,12 @@
         "title": "Amazon Lambdas with Quarkus",
         "description": "The talk will start with a brief introduction into the Quarkus approach of building applications to highlight how it is different from other development frameworks, then explain how support for Amazon Lambdas is implemented in Quarkus and demo some of the development features and practices it enables.",
         "about": "Alexey is a Principal Software Engineer at Red Hat, a member of Quarkus development team since 2018. Before joining the Quarkus team, he worked on the JBoss/WildFly AS for 15 years contributing to a number of its subsystems including EJB, JCA, Microcontainer, Management architecture and tools, patching and provisioning mechanisms."
+    },
+    "andreea-merariu": {
+        "name": "Andreea Merariu",
+        "photo": "andreea-merariu.jpg",
+        "title": "Automating API Consumer Onboarding Process on AWS",
+        "description": "When a business grows, the number of clients consuming its public APIs will also increase. These clients might be internal, such as other departments, or external, such as partners. While this is great for the business, it comes with challenges. When you onboard a new API consumer, you need to spend time generating client credentials, configuring API quota, and securely handing them over to the respective consumer. In this talk, using a real-life use case, I will dive into the intricacies of building a serverless application to automate creating credentials and securely delivering them. I will talk about the challenges I encountered and how leveraging a wide variety of AWS services can be invaluable in building a robust system for this purpose. I will leave you with my learnings and the process I underwent while architecting the solution.",
+        "about": "Andreea is a Software Engineer at The Lego Group with a few years of experience in the industry. She has a passion for backend technologies but even more so for all things serverless. At the LEGO Group, she is designing and developing serverless applications on AWS. She is keen to engage with the community and constantly seeks new learning opportunities. Andreea is eager to share her journey into serverless and the interesting technical challenges she encounters along the way."
     }
 }
